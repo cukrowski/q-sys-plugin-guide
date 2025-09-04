@@ -2,20 +2,20 @@
 <!-- Initially generated manually using `nuget spec`-->
 <package >
   <metadata>
-    <id>Plugin-Template</id>
-    <version>0.0.0.0-master</version>
-    <title>Q-Sys Plugin Template</title>
-    <authors>Sam Shelton</authors>
-    <owners>Carrier Labs</owners>
+    <id>Plugin-DAHUA DHI</id>
+    <version>1.0.0.0-master</version>
+    <title>Q-Sys Plugin DAHUA DHI</title>
+    <authors>Andreas Cukrowski</authors>
+    <owners>TIGERSOFT</owners>
     <license type="expression">GPL-3.0-or-later</license>
     <projectUrl>https://github.com/q-sys-community/q-sys-plugin-development</projectUrl>
     <iconUrl>http://content/images/brand-logo-128px.png</iconUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
-    <description>Q-Sys Designer Template</description>
+    <description>Q-Sys Designer DAHUA DHI</description>
     <releaseNotes>AutoGenerateFromGitCommitMessages</releaseNotes>
-    <copyright>Copyright 2019</copyright>
-    <tags>Q-Sys Template</tags>
-    <summary>A template for Q-Sys Plugin development</summary>
+    <copyright>Copyright 2025</copyright>
+    <tags>Q-Sys Plugin for DAHUA DHI Interactive Panels</tags>
+    <summary>A Q-Sys Plugin for DAHUA DHI Interactive Panels</summary>
   </metadata>
   <files>
     <file src="content\**" target="content" />
